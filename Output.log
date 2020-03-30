@@ -39,3 +39,28 @@
 09:12:24.578 [main] DEBUG c.c.d.t.FileManipulationServiceTest - fetchAllfilesValidTest - data fetched from service : [src/com/cts/designpattern/service/FileManipulationService.java, src/com/cts/designpattern/Application/Main.java, src/com/cts/designpattern/dao/FileManipulationDAO.java]
 09:12:24.579 [main] INFO  c.c.d.s.FileManipulationService - File present in given directory
 09:12:24.580 [main] DEBUG c.c.d.t.FileManipulationServiceTest - searchValidTest - data fetched from service : dir/TabletDetails.csv
+13:27:58.353 [main] DEBUG c.c.d.A.Main - AccountType : SavingAccount
+13:30:10.679 [main] DEBUG c.c.d.t.FileManipulationDAOTest - fetchAllfilesTest - data fetched from DAO : [src/com/cts/designpattern/service/FileManipulationService.java, src/com/cts/designpattern/Application/SingletonPattern.java, src/com/cts/designpattern/Application/Main.java, src/com/cts/designpattern/dao/FileManipulationDAO.java, src/com/cts/designpattern/factory/FixedAccount.java, src/com/cts/designpattern/factory/AccountFactory.java, src/com/cts/designpattern/factory/AccountFactoryImpl.java, src/com/cts/designpattern/factory/CurrentAccount.java, src/com/cts/designpattern/factory/SavingAccount.java, src/com/cts/designpattern/test/FileManipulationServiceTest.java, src/com/cts/designpattern/test/FileManipulationDAOTest.java, src/com/cts/designpattern/model/Tablet.java]
+13:30:10.716 [main] DEBUG c.c.d.t.FileManipulationDAOTest - searchTest - data fetched from DAO : Optional[../designpattern/dir/TabletDetails.csv]
+13:30:10.760 [main] DEBUG c.c.d.t.FileManipulationDAOTest - getExpiredTabletsTest - data fetched from DAO : {Amoxicillin=03/02/2010}
+13:30:11.040 [main] DEBUG c.c.d.t.FileManipulationServiceTest - getExpiredTabletsValidTest - data fetched from service : null
+13:30:11.043 [main] INFO  c.c.d.s.FileManipulationService - File not present in given directory
+13:30:11.044 [main] DEBUG c.c.d.t.FileManipulationServiceTest - searchInValidTest - data fetched from service : null
+13:30:11.044 [main] INFO  c.c.d.s.FileManipulationService - File not present in given directory
+13:30:11.046 [main] DEBUG c.c.d.t.FileManipulationServiceTest - getExpiredTabletsValidTest - data fetched from service : {Amoxicillin=03/02/2010}
+13:30:11.047 [main] DEBUG c.c.d.t.FileManipulationServiceTest - fetchAllfilesInValidTest - data fetched from service : null
+13:30:11.049 [main] DEBUG c.c.d.t.FileManipulationServiceTest - fetchAllfilesValidTest - data fetched from service : [src/com/cts/designpattern/service/FileManipulationService.java, src/com/cts/designpattern/Application/Main.java, src/com/cts/designpattern/dao/FileManipulationDAO.java]
+13:30:11.051 [main] INFO  c.c.d.s.FileManipulationService - File present in given directory
+13:30:11.052 [main] DEBUG c.c.d.t.FileManipulationServiceTest - searchValidTest - data fetched from service : dir/TabletDetails.csv
+13:30:59.712 [main] DEBUG c.c.d.t.FileManipulationDAOTest - fetchAllfilesTest - data fetched from DAO : [src/com/cts/designpattern/service/FileManipulationService.java, src/com/cts/designpattern/Application/SingletonPattern.java, src/com/cts/designpattern/Application/Main.java, src/com/cts/designpattern/dao/FileManipulationDAO.java, src/com/cts/designpattern/factory/FixedAccount.java, src/com/cts/designpattern/factory/AccountFactory.java, src/com/cts/designpattern/factory/AccountFactoryImpl.java, src/com/cts/designpattern/factory/CurrentAccount.java, src/com/cts/designpattern/factory/SavingAccount.java, src/com/cts/designpattern/test/FileManipulationServiceTest.java, src/com/cts/designpattern/test/FileManipulationDAOTest.java, src/com/cts/designpattern/model/Tablet.java]
+13:30:59.732 [main] DEBUG c.c.d.t.FileManipulationDAOTest - searchTest - data fetched from DAO : Optional[../designpattern/dir/TabletDetails.csv]
+13:30:59.753 [main] DEBUG c.c.d.t.FileManipulationDAOTest - getExpiredTabletsTest - data fetched from DAO : {Amoxicillin=03/02/2010}
+13:31:00.038 [main] DEBUG c.c.d.t.FileManipulationServiceTest - getExpiredTabletsValidTest - data fetched from service : null
+13:31:00.041 [main] INFO  c.c.d.s.FileManipulationService - File not present in given directory
+13:31:00.042 [main] DEBUG c.c.d.t.FileManipulationServiceTest - searchInValidTest - data fetched from service : null
+13:31:00.042 [main] INFO  c.c.d.s.FileManipulationService - File not present in given directory
+13:31:00.043 [main] DEBUG c.c.d.t.FileManipulationServiceTest - getExpiredTabletsValidTest - data fetched from service : {Amoxicillin=03/02/2010}
+13:31:00.045 [main] DEBUG c.c.d.t.FileManipulationServiceTest - fetchAllfilesInValidTest - data fetched from service : null
+13:31:00.046 [main] DEBUG c.c.d.t.FileManipulationServiceTest - fetchAllfilesValidTest - data fetched from service : [src/com/cts/designpattern/service/FileManipulationService.java, src/com/cts/designpattern/Application/Main.java, src/com/cts/designpattern/dao/FileManipulationDAO.java]
+13:31:00.047 [main] INFO  c.c.d.s.FileManipulationService - File present in given directory
+13:31:00.047 [main] DEBUG c.c.d.t.FileManipulationServiceTest - searchValidTest - data fetched from service : dir/TabletDetails.csv

@@ -8,6 +8,9 @@ import org.slf4j.LoggerFactory;
 
 import com.cts.designpattern.service.FileManipulationService;
 
+/**
+ * Implement DAO pattern for files exercise from Java-8
+ */
 public class Main {
 	public static void main(String[] args) {
 		

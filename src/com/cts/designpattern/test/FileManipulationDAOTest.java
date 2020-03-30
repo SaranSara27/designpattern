@@ -39,7 +39,7 @@ public class FileManipulationDAOTest {
 	public void fetchAllfilesTest() {
 		List<Path> outputList=dao.fetchAllfiles();
 		log.debug("fetchAllfilesTest - data fetched from DAO : {}",outputList);
-		assertEquals(7, outputList.size());
+		assertEquals(12, outputList.size());
 	}
 	
 	

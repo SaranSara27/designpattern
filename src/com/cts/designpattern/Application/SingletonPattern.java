@@ -3,6 +3,11 @@ package com.cts.designpattern.Application;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * 
+ * Create an class that return a single instance of Logger Object.
+ *
+ */
 public class SingletonPattern {
 	
 	private static Logger log;
